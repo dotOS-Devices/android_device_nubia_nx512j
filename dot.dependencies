@@ -5,7 +5,7 @@
   },
   {
     "repository": "proprietary_vendor_nubia",
-    "target_path": "vendor/nubis"
+    "target_path": "vendor/nubia"
   },
   {
     "repository": "android_external_stlport",
